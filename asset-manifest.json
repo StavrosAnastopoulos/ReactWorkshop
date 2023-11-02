@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactWorkshop/static/css/main.c1ba2dcc.css",
+    "main.js": "/ReactWorkshop/static/js/main.a000f740.js",
+    "static/js/787.636be25e.chunk.js": "/ReactWorkshop/static/js/787.636be25e.chunk.js",
+    "index.html": "/ReactWorkshop/index.html",
+    "main.c1ba2dcc.css.map": "/ReactWorkshop/static/css/main.c1ba2dcc.css.map",
+    "main.a000f740.js.map": "/ReactWorkshop/static/js/main.a000f740.js.map",
+    "787.636be25e.chunk.js.map": "/ReactWorkshop/static/js/787.636be25e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ba2dcc.css",
+    "static/js/main.a000f740.js"
+  ]
+}
