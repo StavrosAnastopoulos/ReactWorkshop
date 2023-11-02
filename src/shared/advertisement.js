@@ -5,7 +5,7 @@ export function Advertisement() {
         children: [
             {
                 label: 'The Overflow Blog',
-                classes: 'adv-header',
+                classes: 'addv-header',
                 children: [
                     {
                         label: 'Edge and beyond: How to meet the increasing demand for memory',
@@ -17,7 +17,7 @@ export function Advertisement() {
             },
             {
                 label: 'Featured on Meta',
-                classes: 'adv-header',
+                classes: 'addv-header',
                 children: [
                     {
                         label: 'Changes to MSE deployment process may cause intermittent issues on',
@@ -33,7 +33,7 @@ export function Advertisement() {
         ]
     }
     return (
-        <div className="adv-list">
+        <div className="addv-list">
             <MenuItem item={advertisments} level={-1} />
           </div>
     );

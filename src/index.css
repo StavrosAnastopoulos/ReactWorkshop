@@ -115,19 +115,19 @@ body {
   background-color: orange;
 }
 
-.adv-list {
+.addv-list {
   margin: 5px;
   border: 1px solid rgb(244, 210, 123);
   background-color: rgb(253, 247, 231);
 }
-.adv-header {
+.addv-header {
   border-bottom: 1px solid rgb(244, 210, 123);
   border-top: 1px solid rgb(244, 210, 123);
   background-color: rgb(250, 236, 198);
   font-weight: bold;
   margin-bottom: 4px;
 }
-.adv-list .menu-item {
+.addv-list .menu-item {
   height: 24px;
   font-size: 14px;
   color: rgb(18, 18, 18);
